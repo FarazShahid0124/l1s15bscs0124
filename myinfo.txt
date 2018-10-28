@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "Name: Muhammad Faraz Shahid" 
+=======
+"Name: FarazShahid" 
+>>>>>>> 23bf1b28605a4dcf641f392baabd6ece067ca5d9
 Email: m.farazshahid@ucp.edu.pk
 
